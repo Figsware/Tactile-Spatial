@@ -1,0 +1,15 @@
+{
+  "name": "com.figsware.tactile.spatial",
+  "version": "0.1.0",
+  "displayName": "Tactile Spatial",
+  "description": "Spatial photo and video player",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Figsware"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.unity.shadergraph": "14.0.0"
+  }
+}
