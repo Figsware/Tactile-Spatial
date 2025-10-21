@@ -11,5 +11,12 @@
   "type": "library",
   "dependencies": {
     "com.unity.shadergraph": "14.0.0"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Spatial SBS Shader Graph",
+      "description": "Contains a Shader Graph shader for rendering side-by-side spatial photos and videos.",
+      "path": "Samples~/SpatialSBSShaderGraph"
+    }
+  ]
 }
